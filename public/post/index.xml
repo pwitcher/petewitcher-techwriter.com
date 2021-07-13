@@ -171,5 +171,14 @@ Association football, more commonly known as football or soccer,[2] is a sport p
       <description>This is my first post, how exciting!</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://petewitcher-techwriter-com.vercel.app/post/2021-07-13-api-documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>pete.witcher@gmail.com (Pete Witcher)</author>
+      <guid>https://petewitcher-techwriter-com.vercel.app/post/2021-07-13-api-documentation/</guid>
+      <description>API Documentation Sample All of the API documentation I&amp;rsquo;ve done for employers has been proprietary and not available for distribution as work samples. So I created my own API and documented it with OAS and Swaggerhub.</description>
+    </item>
+    
   </channel>
 </rss>

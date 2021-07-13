@@ -69,13 +69,13 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "samples"
     name = "API Documentation"
-    url = "post/2021-07-13 API Documentation"
+    url = "post/2021-07-12-api"
     weight = 1
 
 [[menu.main]]
     parent = "samples"
     name = "Knowledge Base Articles"
-    url = "post/2017-03-05-math-sample"
+    url = "post/2015-01-19-soccer"
     weight = 2
 
 [[menu.main]]
