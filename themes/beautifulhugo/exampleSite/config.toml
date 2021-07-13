@@ -1,4 +1,4 @@
-baseurl = "https://petewitcher-techwriter.vercel.app/"
+baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
