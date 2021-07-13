@@ -1,7 +1,7 @@
 baseurl = "https://petewitcher-techwriter-com.vercel.app/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Beautiful Hugo"
+title = "Pete Witcher"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "Technical Writer"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -45,34 +45,11 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
-  500px = "username"
-  codepen = "username"
-  mastodon = "url"
-  kaggle = "username"
-  weibo = "username"
-  slack = "username"
+  name = "Pete Witcher"
+  website = "petewitcher-techwriter.com"
+  email = "pete.witcher@gmail.com"
+  github = "pwitcher"
+  linkedin = "seniortechnicalwriter"
 
 [[menu.main]]
     name = "Blog"
@@ -86,28 +63,29 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     identifier = "samples"
-    name = "Samples"
+    name = "Portfolio"
     weight = 2
 
 [[menu.main]]
     parent = "samples"
-    name = "Big Image Sample"
+    name = "API Documentation"
     url = "post/2017-03-07-bigimg-sample"
     weight = 1
 
 [[menu.main]]
     parent = "samples"
-    name = "Math Sample"
+    name = "Knowledge Base Articles"
     url = "post/2017-03-05-math-sample"
     weight = 2
 
 [[menu.main]]
     parent = "samples"
-    name = "Code Sample"
+    name = "User Guides"
     url = "post/2016-03-08-code-sample"
     weight = 3
 
 [[menu.main]]
-    name = "Tags"
-    url = "tags"
+    parent = "samples"
+    name = "Admin Guides"
+    url = "post/2016-03-08-code-sample"
     weight = 3
