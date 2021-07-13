@@ -1,4 +1,4 @@
-baseurl = "https://petewitcher-techwriter.vercel.app/"
+baseurl = "https://petewitcher-techwriter-com.vercel.app/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
