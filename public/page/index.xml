@@ -6,77 +6,16 @@
     <description>Recent content in Pages on Pete Witcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>pete.witcher@gmail.com (Pete Witcher)</managingEditor>
-    <webMaster>pete.witcher@gmail.com (Pete Witcher)</webMaster><atom:link href="https://petewitcher-techwriter-com.vercel.app/page/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>pete.witcher@gmail.com (Pete Witcher)</webMaster>
+    <lastBuildDate>Mon, 12 Jul 2021 17:30:53 -0600</lastBuildDate><atom:link href="https://petewitcher-techwriter-com.vercel.app/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-admin-guide/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Writing Samples</title>
+      <link>https://petewitcher-techwriter-com.vercel.app/page/samples/</link>
+      <pubDate>Mon, 12 Jul 2021 17:30:53 -0600</pubDate>
       <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-admin-guide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-api-ssd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-api-ssd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-api-storage-pool/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-api-storage-pool/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-installation-guide/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-installation-guide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-user-guide-retail1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-user-guide-retail1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-user-guide-retail2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-user-guide-retail2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-white-paper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/page/samples/sample-white-paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://petewitcher-techwriter-com.vercel.app/page/samples/samples-home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/page/samples/samples-home/</guid>
-      <description></description>
+      <guid>https://petewitcher-techwriter-com.vercel.app/page/samples/</guid>
+      <description>Some examples of my work Over the course of my career I&amp;rsquo;ve been an individual contributor and I&amp;rsquo;ve been a manager. During my eight years as a manager, I contributed as a writer or co-writer on several occasions. I&amp;rsquo;m happy to provide custom samples if you would like see something written from scratch.
+Note: Layout and design decisions were almost always determined by groups outside of my tech writing team (Marketing, for example), so I take no credit for look and feel.</description>
     </item>
     
     <item>
@@ -85,7 +24,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>pete.witcher@gmail.com (Pete Witcher)</author>
       <guid>https://petewitcher-techwriter-com.vercel.app/page/about/</guid>
-      <description>My name is Pete Witcher. I&amp;rsquo;m a technical writer.</description>
+      <description>I&amp;rsquo;m a technical writer with over 20 years of experience documenting retail and enterprise products of varying technical complexity. I enjoy the challenge of learning new applications and technologies, and I love writing about them to let others appreciate them as well.
+Before becoming a technical writer, I was a copywriter, a slot machine salesman, a call center supervisor, and I had many other jobs in my teens and twenties. I&amp;rsquo;m also an amateur musician.</description>
     </item>
     
   </channel>
