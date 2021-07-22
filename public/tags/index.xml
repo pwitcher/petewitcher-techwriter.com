@@ -6,61 +6,6 @@
     <description>Recent content in Tags on Pete Witcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>pete.witcher@gmail.com (Pete Witcher)</managingEditor>
-    <webMaster>pete.witcher@gmail.com (Pete Witcher)</webMaster>
-    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://petewitcher-techwriter-com.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>example</title>
-      <link>https://petewitcher-techwriter-com.vercel.app/tags/example/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/tags/example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>photoswipe</title>
-      <link>https://petewitcher-techwriter-com.vercel.app/tags/photoswipe/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/tags/photoswipe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bigimg</title>
-      <link>https://petewitcher-techwriter-com.vercel.app/tags/bigimg/</link>
-      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/tags/bigimg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>https://petewitcher-techwriter-com.vercel.app/tags/math/</link>
-      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/tags/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code</title>
-      <link>https://petewitcher-techwriter-com.vercel.app/tags/code/</link>
-      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://petewitcher-techwriter-com.vercel.app/tags/markdown/</link>
-      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
+    <webMaster>pete.witcher@gmail.com (Pete Witcher)</webMaster><atom:link href="https://petewitcher-techwriter-com.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
