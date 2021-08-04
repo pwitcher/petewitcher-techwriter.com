@@ -1,7 +1,7 @@
 baseurl = "https://petewitcher-techwriter.com"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Pete Witcher"
+title = "Pete Witcher, Technical Writer"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Technical Writer"
+  subtitle = "A tech writer's blog and portfolio"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"

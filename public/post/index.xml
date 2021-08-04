@@ -1,32 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Pete Witcher</title>
-    <link>https://petewitcher-techwriter-com.vercel.app/post/</link>
-    <description>Recent content in Posts on Pete Witcher</description>
+    <title>Posts on Pete Witcher, Technical Writer</title>
+    <link>https://petewitcher-techwriter.com/post/</link>
+    <description>Recent content in Posts on Pete Witcher, Technical Writer</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>pete.witcher@gmail.com (Pete Witcher)</managingEditor>
     <webMaster>pete.witcher@gmail.com (Pete Witcher)</webMaster>
-    <lastBuildDate>Mon, 12 Jul 2021 17:30:53 -0600</lastBuildDate><atom:link href="https://petewitcher-techwriter-com.vercel.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://petewitcher-techwriter.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>API Documentation Samples</title>
-      <link>https://petewitcher-techwriter-com.vercel.app/post/2021-07-12-api/</link>
-      <pubDate>Mon, 12 Jul 2021 17:30:53 -0600</pubDate>
+      <title>What Technical Writers Do in the Shadows</title>
+      <link>https://petewitcher-techwriter.com/post/2021-08-03-people-skills/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/post/2021-07-12-api/</guid>
-      <description>API Documentation Sample I&amp;rsquo;ve documented different types of APIs, including web service APIs, software APIs, and hardware APIs.
-API documentation sample
-The web service APIs I&amp;rsquo;ve documented are all proprietary and not available for distribution as samples. So to demonstrate my web API documentation skills, I created my own public web API using Python and Flask, hosted it on Heroku, and documented it according to the Open API Specification using SwaggerHub.</description>
-    </item>
-    
-    <item>
-      <title>Liftoff!</title>
-      <link>https://petewitcher-techwriter-com.vercel.app/post/2021-07-12-liftoff/</link>
-      <pubDate>Mon, 12 Jul 2021 17:30:53 -0600</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://petewitcher-techwriter-com.vercel.app/post/2021-07-12-liftoff/</guid>
-      <description>This post represents the culmination of many hours of research and learning. In the past year or so that I&amp;rsquo;ve been working toward this goal, I&amp;rsquo;ve learned varying amounts about several useful tools and skills, including:
- Hugo Heroku Github pages Markdown SwaggerHub and OAS  And this is just another chapter in the ongoing story of one tech writer who enjoys learning new tech.</description>
+      <guid>https://petewitcher-techwriter.com/post/2021-08-03-people-skills/</guid>
+      <description>As a job title, “technical writer” only tells part of the story. Yes, we write technical content, but we also use people skills to facilitate the writing process. The road from undocumented project to comprehensive document suite is rarely smooth, and the user documentation is often de-prioritized when resources are scarce. That&amp;rsquo;s why tech writers usually employ our people skills before we apply our fingertips to the keyboard.
+Projects with the following features make the technical writer’s job relatively easy:</description>
     </item>
     
   </channel>

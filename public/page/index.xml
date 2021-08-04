@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Pete Witcher</title>
+    <title>Pages on Pete Witcher, Technical Writer</title>
     <link>https://petewitcher-techwriter.com/page/</link>
-    <description>Recent content in Pages on Pete Witcher</description>
+    <description>Recent content in Pages on Pete Witcher, Technical Writer</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>pete.witcher@gmail.com (Pete Witcher)</managingEditor>
     <webMaster>pete.witcher@gmail.com (Pete Witcher)</webMaster>
@@ -14,8 +14,9 @@
       <pubDate>Mon, 12 Jul 2021 17:30:53 -0600</pubDate>
       <author>pete.witcher@gmail.com (Pete Witcher)</author>
       <guid>https://petewitcher-techwriter.com/page/samples/</guid>
-      <description>Some examples of my work Over the course of my career I&amp;rsquo;ve been an individual contributor and I&amp;rsquo;ve been a manager. During my eight years as a manager, I contributed as a writer or co-writer on several occasions. I&amp;rsquo;m happy to provide custom samples if you would like see something written from scratch.
-Note: Layout and design decisions were almost always determined by groups outside of my tech writing team (Marketing, for example), so I take no credit for look and feel.</description>
+      <description>Some examples of my work Browse some documents I wrote or co-wrote below. I&amp;rsquo;m happy to provide custom samples if you would like see something written from scratch.
+Note: Layout and design decisions were almost always determined by groups outside of my tech writing team (Marketing, for example), so I take no credit for look and feel.
+Sample #1 - Open API documentation Most of the API documentation I&amp;rsquo;ve done is proprietary and internal-only, so I created and hosted my own simple RESTful web API.</description>
     </item>
     
     <item>

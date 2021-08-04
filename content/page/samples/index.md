@@ -9,13 +9,13 @@ tags: []
 ---
 
 # Some examples of my work
-Over the course of my career I've been an individual contributor and I've been a manager. During my eight years as a manager, I contributed as a writer or co-writer on several occasions. I'm happy to provide custom  samples if you would like  see something written from scratch.
+Browse some documents I wrote or co-wrote below. I'm  happy to provide custom samples if you would like see something written from scratch.
 
 **Note:** Layout and design decisions were almost always determined by groups outside of my tech writing team (Marketing, for example), so I take no credit for look and feel.
 
 
 ### [Sample #1 - Open API documentation](https://app.swaggerhub.com/apis-docs/pwitcher/SongbookApi/1.0.0)
-Most of the API and OAS documentation I've done is proprietary and internal-only, so I consulted several tutorials to create and host my own simple RESTful web API. Then I documented it to provide that documentation as a sample.
+Most of the API documentation I've done is proprietary and internal-only, so I created and hosted my own simple RESTful web API. Then I documented it to provide that documentation as a sample.
 
 #### Tools used
 - Python
@@ -36,16 +36,16 @@ This guide documents an API for monitoring and managing a 3U SSD storage device.
 - Illustrator
 
 ### [Sample #3 - Knowledge base articles](https://f5cloudservices.zendesk.com/hc/en-us/categories/1500000490201-Integrated-Bot-Defense)
-I wrote these KB articles for Integrated Bot Defense, an F5 bot detection and mitigation solution. Almost all the content is my original writing. Some content (for example, the [Configuration Guide](https://f5cloudservices.zendesk.com/hc/en-us/articles/1500005614802-Integrated-Bot-Defense-Configuration-Guide-for-BIG-IP)) already existed in previous articles, so I copied it, updated it, and added new screenshots to support the new product.
+I wrote these KB articles for Integrated Bot Defense, an F5 bot detection and mitigation solution. Almost all the content is my original writing. The [Configuration Guide](https://f5cloudservices.zendesk.com/hc/en-us/articles/1500005614802-Integrated-Bot-Defense-Configuration-Guide-for-BIG-IP) already existed in previous articles, so I copied it, updated it, and added new screenshots to support the new product.
 
 #### Tools used
 - Zendesk
 - Flare
 - Git/Github
 
-**Note:** Zendesk allows many users to edit articles. The KB articles above may contain edits from other people.
+**Note:** Zendesk allows multiple users to edit articles. The KB articles above may contain edits from support engineers and other technical writers.
 
-### [Sample #4 - Hardware user\'s guide (retail)](sample_UsersManualRetail2.pdf)
+### [Sample #4 - Hardware owner\'s manual (retail)](sample_UsersManualRetail2.pdf)
 This guide documents a guitar signal processor. The audience is retail consumers. This guide was provided as hard copy and PDF. I created all the content for this project, including the text and graphics (except the cover art).
 
 #### Tools used
