@@ -1,5 +1,5 @@
 ---
-title: "Writing Samples"
+title: "Portfolio"
 author: "Pete Witcher"
 type: ""
 date: 2021-07-12T17:30:53-06:00
@@ -9,13 +9,10 @@ tags: []
 ---
 
 # Some examples of my work
-Browse some documents I wrote or co-wrote below. I'm  happy to provide custom samples if you would like see something written from scratch.
-
-**Note:** Layout and design decisions were almost always determined by groups outside of my tech writing team (Marketing, for example), so I take no credit for look and feel.
-
+You can browse some documents I wrote and co-wrote below. I also provide custom samples on request.
 
 ### [Sample #1 - Open API documentation](https://app.swaggerhub.com/apis-docs/pwitcher/SongbookApi/1.0.0)
-Most of the API documentation I've done is proprietary and internal-only, so I created and hosted my own simple RESTful web API. Then I documented it to provide that documentation as a sample.
+Most of the API documentation I've done is proprietary and internal-only, so I created and hosted my own simple RESTful web API. Then I documented it with SwaggerHub to provide that as a sample.
 
 #### Tools used
 - Python

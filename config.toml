@@ -1,4 +1,4 @@
-baseurl = "https://petewitcher-techwriter.com"
+baseurl = "https://pwitcher.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Pete Witcher, Technical Writer"
@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "A tech writer's blog and portfolio"
+  subtitle = "My blog and portfolio"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -58,7 +58,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     identifier = "samples"
-    name = "Samples"
+    name = "Portfolio"
     url = "page/samples/"
     weight = 2
 
