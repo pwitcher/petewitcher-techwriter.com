@@ -24,21 +24,24 @@ Most of the API documentation I've done is proprietary and internal-only, so I c
 - Atom
 - WinSCP
 
-### [Sample #2 - Internal API guide](APIGuideSSD.pdf)
-This guide documents an API for monitoring and managing a 3U SSD storage device. I was a co-writer on this. The project was interesting to me because the API uses a RESTful web service to manage hardware devices. It's one of the first API documents I worked on. SanDisk did not provide an HTML version of this documentation; it was distributed as PDF only.
+### Sample #2 - Distributed Cloud Service Documentation
+**[Overview](https://www.volterra.io/docs/services/mesh/bot-defense)**  
+**[How-to](https://www.volterra.io/docs/how-to/advanced-security/bot-defense)**  
+These documents describe Distributed Cloud Bot Defense, an online bot detection and mitigation service provided by F5 via their Distributed Cloud platform. I created this content on short notice and worked closely with another tech writer to learn a new publishing workflow using Gitlab and Jenkins. When the project was complete, the Product Manager recognized my work publicly and said I was one of the best tech writers she had ever worked with.
 
 #### Tools used
-- Flare
+- Atom
+- Git/Gitlab
 - Photoshop
-- Illustrator
 
-### [Sample #3 - Knowledge base articles](https://f5cloudservices.zendesk.com/hc/en-us/categories/1500000490201-Integrated-Bot-Defense)
-I wrote these KB articles for Integrated Bot Defense, an F5 bot detection and mitigation solution. Almost all the content is my original writing. The [Configuration Guide](https://f5cloudservices.zendesk.com/hc/en-us/articles/1500005614802-Integrated-Bot-Defense-Configuration-Guide-for-BIG-IP) already existed in previous articles, so I copied it, updated it, and added new screenshots to support the new product.
+### [Sample #3 - Integrated Bot Defense Knowledge base articles](https://f5cloudservices.zendesk.com/hc/en-us/categories/1500000490201-Integrated-Bot-Defense)
+I wrote these KB articles for Integrated Bot Defense, an F5 bot detection and mitigation solution provided via their BIG-IP platform. Almost all the content is my original writing. The [Configuration Guide](https://f5cloudservices.zendesk.com/hc/en-us/articles/1500005614802-Integrated-Bot-Defense-Configuration-Guide-for-BIG-IP) already existed in previous articles, so I copied it, updated it, and added new screenshots to support the new product.
 
 #### Tools used
 - Zendesk
 - Flare
 - Git/Github
+- Photoshop
 
 **Note:** Zendesk allows multiple users to edit articles. The KB articles above may contain edits from support engineers and other technical writers.
 
