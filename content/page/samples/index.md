@@ -9,7 +9,7 @@ tags: []
 ---
 
 # Some examples of my work
-You can browse some documents I wrote and co-wrote below. I also provide custom samples on request.
+You can browse some documents I've written below. I also provide custom samples on request.
 
 ### [Sample #1 - Open API documentation](https://app.swaggerhub.com/apis-docs/pwitcher/SongbookApi/1.0.0)
 Most of the API documentation I've done is proprietary and internal-only, so I created and hosted my own simple RESTful web API. Then I documented it with SwaggerHub to provide that as a sample.
@@ -24,7 +24,7 @@ Most of the API documentation I've done is proprietary and internal-only, so I c
 - Atom
 - WinSCP
 
-### Sample #2 - Distributed Cloud Service Documentation
+### Sample #2 - Distributed Cloud Service documentation
 **[Overview](https://www.volterra.io/docs/services/mesh/bot-defense)**  
 **[How-to](https://www.volterra.io/docs/how-to/advanced-security/bot-defense)**  
 These documents describe Distributed Cloud Bot Defense, an online bot detection and mitigation service provided by F5 via their Distributed Cloud platform. I created this content on short notice and worked closely with another tech writer to learn a new publishing workflow using Gitlab and Jenkins. When the project was complete, the Product Manager recognized my work publicly and said I was one of the best tech writers she had ever worked with.
@@ -34,8 +34,8 @@ These documents describe Distributed Cloud Bot Defense, an online bot detection 
 - Git/Gitlab
 - Photoshop
 
-### [Sample #3 - Integrated Bot Defense Knowledge base articles](https://f5cloudservices.zendesk.com/hc/en-us/categories/1500000490201-Integrated-Bot-Defense)
-I wrote these KB articles for Integrated Bot Defense, a bot detection and mitigation solution F5 provides via their BIG-IP platform. 
+### [Sample #3 - Integrated Bot Defense knowledge base articles](https://f5cloudservices.zendesk.com/hc/en-us/categories/1500000490201-Integrated-Bot-Defense)
+I wrote these KB articles for Integrated Bot Defense, a bot detection and mitigation solution F5 provides via their BIG-IP platform.
 
 #### Tools used
 - Zendesk
