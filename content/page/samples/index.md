@@ -35,7 +35,7 @@ These documents describe Distributed Cloud Bot Defense, an online bot detection 
 - Photoshop
 
 ### [Sample #3 - Integrated Bot Defense Knowledge base articles](https://f5cloudservices.zendesk.com/hc/en-us/categories/1500000490201-Integrated-Bot-Defense)
-I wrote these KB articles for Integrated Bot Defense, an F5 bot detection and mitigation solution provided via their BIG-IP platform. Almost all the content is my original writing. The [Configuration Guide](https://f5cloudservices.zendesk.com/hc/en-us/articles/1500005614802-Integrated-Bot-Defense-Configuration-Guide-for-BIG-IP) already existed in previous articles, so I copied it, updated it, and added new screenshots to support the new product.
+I wrote these KB articles for Integrated Bot Defense, a bot detection and mitigation solution F5 provides via their BIG-IP platform. 
 
 #### Tools used
 - Zendesk
