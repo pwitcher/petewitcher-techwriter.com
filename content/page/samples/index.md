@@ -44,11 +44,3 @@ I wrote these KB articles for Integrated Bot Defense, a bot detection and mitiga
 - Photoshop
 
 **Note:** Zendesk allows multiple users to edit articles. The KB articles above may contain edits from support engineers and other technical writers.
-
-### [Sample #4 - Hardware owner\'s manual (retail)](sample_UsersManualRetail2.pdf)
-This guide documents a guitar signal processor. The audience is retail consumers. This guide was provided as hard copy and PDF. I created all the content for this project, including the text and graphics (except the cover art).
-
-#### Tools used
-- InDesign
-- Photoshop
-- Illustrator
