@@ -1,4 +1,2 @@
 ## Welcome
-Thanks for visiting. I created this site using [Hugo](https://gohugo.io/) and [github pages](https://pages.github.com/).
-
-This is a test.
+Thaaaaaaaaaaaaanks for visiting. I created this site using [Hugo](https://gohugo.io/) and [github pages](https://pages.github.com/).
