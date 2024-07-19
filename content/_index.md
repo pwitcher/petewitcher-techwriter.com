@@ -1,2 +1,2 @@
 ## Welcome
-Thanks for visiting. I created this site using [Hugo](https://gohugo.io/) and [github pages](https://pages.github.com/).
+Thanks for visiting. I created this site using [Hugo](https://gohugo.io/) and [github pages](https://pages.github.com/). You know what I like? Cheese. Especially when it's melted on top of a burger or some nachos. I also like making and eating a good stir fry.
