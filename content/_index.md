@@ -1,2 +1,4 @@
 ## Welcome
-I'm a technical writer and I created this site using [Hugo](https://gohugo.io/) and [github pages](https://pages.github.com/) to learn about static sites and CI/CD.
+Hi, I'm a technical writer and I created this site using [Hugo](https://gohugo.io/) and [github pages](https://pages.github.com/) to learn about static sites and CI/CD, and to demonstrate my writing skills and technical expertise.
+
+Potential employers often ask tech writers for public writing samples so they can assess writers' skills and abilities. But what if a tech writer's job involves editing an existing knowledge base more than writing entire documents? Or maybe they collaborate with multiple writers on projects, or their work can be edited by other writers on other teams? Sometimes the work a tech writer has been doing for months or years, while valid and of good quality, may not suitably represent their skills and abilities to a hiring manager. So in order to have writing samples that demonstrate my style, ability, and expertise, I created this site and some relevant projects, then wrote blog posts and procedures to support them.
